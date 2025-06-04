@@ -26,7 +26,7 @@
     }
     .contact a {
       display: inline-block;
-      margin-top: 0.5rem;
+      margin: 0.3rem;
       color: white;
       background-color: #0072b1;
       padding: 0.5rem 1rem;
