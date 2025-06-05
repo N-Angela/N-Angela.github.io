@@ -51,7 +51,7 @@
   <div class="contact">
     <a href="mailto:angela.napoli@bridging-it.de">E-Mail schreiben</a><br />
     <a href="tel:+491757816764">+49 175 7816764 anrufen</a><br />
-    <a href="https://www.linkedin.com/in/angela-napoli-gr8" target="_blank">LinkedIn ansehen</a>
+    <a href="[https://www.linkedin.com/in/angela-napoli-gr8](https://www.linkedin.com/in/angela-napoli-gr8/)" target="_blank">LinkedIn ansehen</a>
   </div>
 
   <div class="info">
